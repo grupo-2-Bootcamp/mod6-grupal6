@@ -1,0 +1,19 @@
+# Created by https://www.toptal.com/developers/gitignore/api/venv
+# Edit at https://www.toptal.com/developers/gitignore?templates=venv
+
+### venv ###
+# Virtualenv
+# http://iamzed.com/2009/05/07/a-primer-on-virtualenv/
+# End of https://www.toptal.com/developers/gitignore/api/venv
+.venv
+zips
+website/website/__pycache__
+website/telovendo/__pycache__
+website/televendo/migrations/
+website/telovendo/migrations/__pycache__/__init__.cpython-311.pyc
+website/telovendo/migrations/__pycache__/
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
